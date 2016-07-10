@@ -1,0 +1,19 @@
+{
+  "name": "Sheypoor-project",
+  "version": "1.0.0",
+  "description": "this is a free project to prove my skills",
+  "main": "index.jade",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SaJadJaf/Sheypoor-project"
+  },
+  "author": "SaJad Jafari",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.3.2"
+  }
+}
