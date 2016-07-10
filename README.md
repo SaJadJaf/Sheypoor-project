@@ -19,4 +19,4 @@ $ gulp
 
 * gulp-jade
 * gulp-sass
-* gulp-concat
+
